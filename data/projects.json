@@ -1,0 +1,30 @@
+{
+    "projects": [
+      {
+        "name": "Mar 2024 - World Temperature",
+        "url": "https://mar24daworldtemp.streamlit.app/",
+        "description": "Visualisation des températures mondiales"
+      },
+      {
+        "name": "Jun 2024 - World Happiness",
+        "url": "https://jun24daworldhapiness.streamlit.app/",
+        "description": "Analyse des indices de bonheur dans le monde"
+      },
+      {
+        "name": "Jan 2024 - World Temperature",
+        "url": "https://jan24daworldtemp.streamlit.app/",
+        "description": "Visualisation des températures mondiales"
+      },
+      {
+        "name": "Aug 2024 - World Temperature",
+        "url": "https://aug24-worldtemp.streamlit.app/",
+        "description": "Visualisation des températures mondiales"
+      },
+      {
+        "name": "Nov 2023 - World Happiness",
+        "url": "https://nov23daprojecthapiness.streamlit.app/",
+        "description": "Analyse des indices de bonheur dans le monde"
+      }
+    ]
+  }
+  

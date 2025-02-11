@@ -1,0 +1,75 @@
+{
+    "resources": {
+      "dataviz": [
+        {
+          "name": "Data to Viz",
+          "url": "https://www.data-to-viz.com/",
+          "description": "Guide pour choisir la meilleure visualisation en fonction des données."
+        }
+      ],
+      "bibliographie": [
+        {
+          "name": "Storytelling with Data",
+          "url": "https://www.storytellingwithdata.com/books",
+          "description": "Livres sur la visualisation efficace des données."
+        },
+        {
+          "name": "SQL for Data Analysis",
+          "url": "https://www.oreilly.com/library/view/sql-for-data/9781492088776/",
+          "description": "Livre sur l'utilisation de SQL pour l'analyse de données."
+        },
+        {
+          "name": "Fundamentals of Data Engineering",
+          "url": "https://www.oreilly.com/library/view/fundamentals-of-data/9781492031079/",
+          "description": "Principes fondamentaux de l'ingénierie des données."
+        },
+        {
+          "name": "Data Analysis Made Easy",
+          "url": "https://dataanalysismadeeasy.com/",
+          "description": "Ressources et livres pour apprendre l'analyse de données."
+        }
+      ],
+      "youtube": [
+        {
+          "name": "Le Coin Stat",
+          "url": "https://www.youtube.com/@LeCoinStat",
+          "description": "Chaîne YouTube dédiée aux statistiques et à la data science."
+        },
+        {
+          "name": "Machine Learnia",
+          "url": "https://www.youtube.com/@MachineLearnia",
+          "description": "Tutoriels sur le machine learning et la data science."
+        },
+        {
+          "name": "freeCodeCamp",
+          "url": "https://www.youtube.com/@freecodecamp",
+          "description": "Cours gratuits sur la programmation et la data science."
+        }
+      ],
+      "tools": [
+        {
+          "name": "Mermaid.js",
+          "url": "https://mermaid.js.org/",
+          "description": "Outil pour créer des diagrammes et des graphiques en texte brut."
+        },
+        {
+          "name": "DrawDB",
+          "url": "https://www.drawdb.app/",
+          "description": "Outil pour dessiner des bases de données relationnelles."
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "description": "Outil de dessin collaboratif pour croquis et diagrammes."
+        }
+      ],
+      "others": [
+        {
+          "name": "Roadmap.sh",
+          "url": "https://roadmap.sh/",
+          "description": "Guides et plans d'apprentissage pour divers domaines de la tech."
+        }
+      ]
+    }
+  }
+  
