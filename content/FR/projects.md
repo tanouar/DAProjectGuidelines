@@ -1,3 +1,22 @@
+# Comment collaborer pendant le projet Data Analyst
+
+Voici quelques conseils pour organiser votre projet de science des données :
+
+- **Créez un dossier partagé** : configurez un dossier Google Drive dans lequel vous et votre équipe pouvez stocker les documents, les ensembles de données et le code du projet. Cela permettra à tout le monde d’accéder facilement au projet et de collaborer sur celui-ci.
+
+- **Donner l'accès** : Assurez-vous d'accorder l'accès au dossier partagé à tous les membres de l'équipe. Cela permettra à chacun de visualiser, modifier et contribuer aux documents du projet.
+
+- **Utiliser Google Colab** : envisagez d'utiliser Google Colab comme environnement de codage collaboratif. Colab permet à plusieurs utilisateurs de travailler ensemble simultanément sur le même bloc-notes, ce qui facilite le partage de code et la collaboration.
+
+- **Créer un calendrier de projet** : créez un calendrier ou un plan de projet basé sur les étapes décrites dans le message précédent. Décomposez le projet en tâches plus petites et attribuez-les aux membres de l'équipe. Cela aidera à organiser le travail et à garantir que toutes les étapes du projet sont respectées.
+
+N'oubliez pas que l'objectif est de garder l'organisation du projet simple et efficace, en permettant de se concentrer sur l'analyse des données plutôt que sur la gestion de projet.
+Si vous avez d'autres questions ou avez besoin d'aide pour l'organisation d'un projet, n'hésitez pas à nous contacter. Bonne chance avec votre projet!
+
+
+
+
+# Livrable final
 
 Concernant la structure du rendu final, je souhaiterai que la structure du dossier soit la suivante (ceci est un exemple vous pouvez avoir plus de notebooks) :
 
