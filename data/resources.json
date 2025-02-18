@@ -68,6 +68,16 @@
           "name": "Roadmap.sh",
           "url": "https://roadmap.sh/",
           "description": "Guides et plans d'apprentissage pour divers domaines de la tech."
+        },
+        {
+          "name": "Cheat Sheat Streamlit",
+          "url": "https://cheat-sheet.streamlit.app/",
+          "description": "Résumé des commandes et fonctionnalités principales de Streamlit v1.25.0 pour la création d'applications interactives en Python."
+        },
+        {
+          "name": "Composants Streamlit",
+          "url": "https://streamlit.io/components",
+          "description": "Catalogue de composants tiers créés par la communauté pour étendre les fonctionnalités de Streamlit."
         }
       ]
     }
