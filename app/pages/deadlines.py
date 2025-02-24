@@ -23,7 +23,7 @@ with col2:
 
 # Texte quand etape choisie
 
-text_0 = """La réunion doit être réalisée le  Lundi ou Mardi après l’allocation. 
+text_0 = """La réunion doit être réalisée le  Lundi ou Mardi après l’allocation.  
 Le document [Projets_méthodologie_rapports](https://docs.google.com/document/d/1IDYR48eYHUfb6DfOAkdo1vN2ACvK2rPAZwssO_25Aeg/edit?tab=t.0) vous aiguillera dans la rédaction des différents rendus.
 """
 
@@ -37,13 +37,16 @@ text_1 = """
     """
 text_2 ="""
         Au moins 5 représentations graphiques construites à partir de votre jeu de données, visuelles 
-        et surtout pertinentes. Pour chaque visualisation, j’attends un commentaire précis, qui analyse la figure 
-        et apporte un avis “métier”. 
+        et surtout pertinentes.  
+        Pour chaque visualisation, j’attends un commentaire précis, qui analyse la figure 
+        et apporte un avis “métier”.  
         Suite aux constats établis lors des étapes précédentes, vous devrez nettoyer votre jeu de données, et 
-        si besoin le transformer et l’enrichir. L'objectif de cette étape est de préparer un ensemble de données 
+        si besoin le transformer et l’enrichir.  
+        L'objectif de cette étape est de préparer un ensemble de données 
         adapté à une analyse approfondie, ainsi qu'à la création de visualisations et de tableaux de bord pour 
-        communiquer efficacement vos résultats.
-        Rendu 1 : rapport d’exploration, de data visualisation et de pre-processing des données.
+        communiquer efficacement vos résultats.  
+        
+        **Rendu 1** : rapport d’exploration, de data visualisation et de pre-processing des données.
     """
 text_3 = """
 Step 1 :
