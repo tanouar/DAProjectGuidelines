@@ -4,7 +4,7 @@ import pandas as pd
 
 st.set_page_config(layout="wide")
 
-st.image("app/pages/files/light-time.gif")
+st.image("app/pages/files/light-theme.gif")
 
 col1, col2 = st.columns([1, 2])
 
